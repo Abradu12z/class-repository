@@ -3,3 +3,6 @@
 ## I A NOW PRACTICING GIT
 
 ### LESSON 1
+
+* ITEM 1
+* ITEM 2
